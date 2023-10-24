@@ -21,8 +21,6 @@ My name is Ruru and I'm a 16-year-old web developer. I'm passionate about buildi
 ### My Projects ⚒️
 
 * [My First Project](https://github.com/ruru/my_first_project) - A simple web application built with React.js
-* [My Second Project](https://github.com/ruru/my_second_project) - A more complex web application built with Node.js, React.js, and Express
-* [My Third Project](https://github.com/ruru/my_third_project) - A large and complex web application built with Node.js, React.js, Express, and Mongoose
 
 ### How to Get Involved 🤝
 
