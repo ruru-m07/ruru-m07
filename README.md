@@ -18,10 +18,6 @@ My name is Ruru and I'm a 16-year-old web developer. I'm passionate about buildi
 * TDD
 * CI/CD
 
-### My Projects ⚒️
-
-* [My First Project](https://github.com/ruru/my_first_project) - A simple web application built with React.js
-
 ### How to Get Involved 🤝
 
 If you're interested in contributing to any of my projects, please feel free to open a pull request. I'm always looking for new ideas and feedback. 💯
