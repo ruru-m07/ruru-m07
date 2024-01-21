@@ -1,35 +1,22 @@
-## Ruru's GitHub Profile 🦋
+<h2> Hi, I'm Ruru! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>study at <a href="https://ppsu.ac.in/">ppsu</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
 
-### Welcome to my GitHub profile! 👋
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-My name is Ruru and I'm a 16-year-old web developer. I'm passionate about building large and complex web applications. I'm proficient in JavaScript, Node.js, React.js, Vue.js, Express, and Mongoose. 🚀
 
-### My Skills and Experience 💻
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-* JavaScript
-* Node.js
-* React.js
-* Vue.js
-* Express
-* Mongoose
-* GraphQL
-* REST APIs
-* Unit testing
-* TDD
-* CI/CD
+```javascript
+const Ruru = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, NodeJs, etc],
+  tools: [React, Redux, Node, Storybook, Styled-Components, next14, Docker],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
-### How to Get Involved 🤝
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-If you're interested in contributing to any of my projects, please feel free to open a pull request. I'm always looking for new ideas and feedback. 💯
-
-### Contact Me ✉️
-
-You can reach me at rutvikm205@gmail.com or on Instagram at @ruru.m07.
-
-### Call to Action 📢
-
-I'm currently looking for collaborators on my next project, a large-scale social media platform. If you're interested in getting involved, please reach out to me. I'm excited to work with a team of talented developers to create something truly special. 🙏
-
-### Thank You! 🙏
-
-Thank you for visiting my GitHub profile! ❤️ I hope you find something interesting.
+---
