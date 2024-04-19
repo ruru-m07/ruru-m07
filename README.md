@@ -36,26 +36,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-      alt="appwrite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
       alt="bootstrap"
       width="40"
       height="40"
@@ -77,6 +69,22 @@
       height="40"
     />
   </a>
+   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
+      alt="appwrite"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/ruru-m07/ruru-m07/assets/142723369/ed2ea0aa-927c-42a1-bb79-8f69201b384a"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
@@ -87,7 +95,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://github.com/ruru-m07/ruru-m07/assets/142723369/24cd7699-18c0-4dd1-8c05-043a3db6aaa9"
       alt="express"
       width="40"
       height="40"
@@ -153,14 +161,6 @@
       height="40"
     />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
-      alt="kafka"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -177,6 +177,14 @@
       height="40"
     />
   </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/ruru-m07/ruru-m07/assets/142723369/500c93e0-8577-490e-baf1-6770835b293d"
+      alt="kafka"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -187,7 +195,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://github.com/ruru-m07/ruru-m07/assets/142723369/4914daf7-d8b5-4cfb-a733-4835408cda0b"
       alt="nextjs"
       width="40"
       height="40"
@@ -233,14 +241,6 @@
       height="40"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -265,10 +265,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
       width="40"
       height="40"
     />
@@ -291,13 +291,13 @@
   />
 </p> -->
 
-  <p align="center">
+  <!-- <p align="center">
     <img
       align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=ruru-m07&"
       alt="ruru-m07"
     />
-  </p>
+  </p> -->
 
 <p align="center">
   <img
