@@ -1,4 +1,4 @@
-Het there! 👋
+Hey there! 👋
 
 # i'm Ruru, A Full-Stack Web Developer. ready to build next...
 > Empowering your digital presence, one line of code at a time.
