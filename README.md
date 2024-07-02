@@ -50,7 +50,7 @@ Hey there! 👋
 
 | platform |  | - | platform |  | - | platform |  | - | platform |  |
 |:-:|---|---|:-:|---|---|:-:|---|---|:-:|---|
-| ![My Skills](https://skillicons.dev/icons?i=instagram) | [ruru.dev07](https://www.instagram.com/ruru.dev07) | - | ![My Skills](https://skillicons.dev/icons?i=discord) | Ruru#4408 | - | ![My Skills](https://skillicons.dev/icons?i=gmail) | **ruru.dev07@gmail.com** | - | ![My Skills](https://skillicons.dev/icons?i=linkedin) | [ruru-dev07](https://www.linkedin.com/in/ruru-dev07/) |
+| ![My Skills](https://skillicons.dev/icons?i=instagram) | [ruru.dev07](https://www.instagram.com/ruru.dev07) | - | ![My Skills](https://skillicons.dev/icons?i=discord) | [Ruru#4408](https://discord.com/users/1006938254727192676) | - | ![My Skills](https://skillicons.dev/icons?i=gmail) | **ruru.dev07@gmail.com** | - | ![My Skills](https://skillicons.dev/icons?i=linkedin) | [ruru-dev07](https://www.linkedin.com/in/ruru-dev07/) |
 | ![My Skills](https://skillicons.dev/icons?i=twitter) | [ruru_dev07](https://x.com/ruru_dev07) |
 
 
