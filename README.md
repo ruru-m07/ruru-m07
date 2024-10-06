@@ -1,4 +1,4 @@
 Hey there! 👋
 
-# i'm Ruru.
-> i'm not a cat i just love cat's :3
+# I'm Ruru.
+> I'm not a cat I just love cats 🐈
