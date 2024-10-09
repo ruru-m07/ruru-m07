@@ -29,9 +29,9 @@
 
 | - | stack | lavel | status | - | stack | lavel | status | - | stack | lavel | status |
 |---|:-:|---|---|---|:-:|---|---|---|:-:|---|---|
-| - | ![My Skills](https://skillicons.dev/icons?i=appwrite)  | advanced | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=bootstrap)  | Further | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=nextjs)  | Further | ✅ Done |
+| - | ![My Skills](https://skillicons.dev/icons?i=appwrite)  | advanced | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=bootstrap)  | Further | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=kafka)  | Further | ✅ Done |
 | - | ![My Skills](https://skillicons.dev/icons?i=postgres)  | advanced | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=prisma)  | Further | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=tailwind)  | Further | ✅ Done |
-| - | ![My Skills](https://skillicons.dev/icons?i=supabase)  | advanced | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=redis)  | Further | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=kafka)  | Further | ✅ Done |
+| - | ![My Skills](https://skillicons.dev/icons?i=supabase)  | advanced | ✅ Done | - | ![My Skills](https://skillicons.dev/icons?i=redis)  | Further | ✅ Done | - |  |
 
 ### My Workspace 
 
